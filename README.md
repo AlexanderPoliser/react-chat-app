@@ -1,4 +1,28 @@
-# Getting Started with Create React App
+# How to use
+To use the chat app, you need to sign in to your Google account and only then can you send a message
+
+# Overview
+## `Home`
+
+<img src="https://user-images.githubusercontent.com/71186310/147887573-15b8d47d-8b94-4542-b1fa-29eef09e8c4a.png">
+
+## `Sign in Google account`
+
+<img src="https://user-images.githubusercontent.com/71186310/147887575-012cbbfe-82de-4dca-8bb7-1a44c91ff4e9.png">
+
+## `Chat screen`
+
+<img src="https://user-images.githubusercontent.com/71186310/147887972-aba7b972-7a66-483e-8d9a-8746e6a39cf1.png">
+
+## `Writing a message`
+
+<img src="https://user-images.githubusercontent.com/71186310/147888000-091294f0-b150-48e6-9781-5fc53a287766.png">
+
+## `Message send`
+
+<img src="https://user-images.githubusercontent.com/71186310/147887578-fc4d9d4c-52f7-432a-9aec-6433572fc6a2.png">
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
