@@ -1,0 +1,23 @@
+.sign-in {
+  background: white;
+  border-radius: 8px;
+  margin: 0 auto;
+  height: 3.5rem;
+  font-weight: 500;
+  color: black;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: 0;
+}
+.sign-in:hover {
+  background-color: rgb(230, 230, 230);
+  transition: 0.5s ease;
+}
+.google-icon {
+  margin-right: 0.5rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}

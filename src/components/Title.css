@@ -1,0 +1,12 @@
+.title {
+  padding-left: 0.5em;
+  font-size: 3.3vh;
+}
+.container {
+  align-items: center;
+}
+.title-icon {
+  width: 3vh;
+  height: 3vh;
+  padding-left: 8px;
+}

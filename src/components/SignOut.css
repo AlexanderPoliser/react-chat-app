@@ -1,0 +1,13 @@
+.sign-out {
+  border-radius: 8px;
+  background-color: #272b33;
+  color: white;
+  font-size: 3vh;
+  max-height: 230px;
+}
+.sign-out:hover {
+  background-color: #1a1d22;
+  color: #eee;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
